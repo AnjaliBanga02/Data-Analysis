@@ -1,4 +1,4 @@
-![Screenshot 2024-12-26 182454](https://github.com/user-attachments/assets/964d4d14-a869-4a6b-a2da-bbf7779b2020)# Data Professional Survey Breakdown (Using PowerBI)
+# Data Professional Survey Breakdown (Using PowerBI)
 
 ## Project Objective
 
