@@ -9,7 +9,7 @@ This project analyses survey data from 630 data professionals, providing insight
 
 ## Key Insights
 
-- Average Salaries by Country: A tree map visualization shows that the United States offers the highest average salary, followed by Canada, the United Kingdom, and India.
+- **Average Salaries by Country:** A tree map visualization shows that the United States offers the highest average salary, followed by Canada, the United Kingdom, and India.
 - Salary Distribution by Gender: A donut chart highlights salary differences between male and female professionals, providing a clear picture of gender-based pay disparity.
 - Work-Life Balance: A pie chart demonstrates the percentage of survey participants satisfied with their work-life balance, broken down by gender.
 - Job Titles vs. Average Salary: A line graph captures the correlation between job titles and average salaries, showcasing trends across different roles.
