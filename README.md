@@ -13,7 +13,6 @@ This project analyses survey data from 630 data professionals, providing insight
 - **Salary Distribution by Gender:** A donut chart highlights salary differences between male and female professionals, providing a clear picture of gender-based pay disparity.
 - **Work-Life Balance:** A pie chart demonstrates the percentage of survey participants satisfied with their work-life balance, broken down by gender.
 - **Job Titles vs. Average Salary:** A line graph captures the correlation between job titles and average salaries, showcasing trends across different roles.
-- **Preferred Programming Languages:** A bar graph reveals that Python is the most popular programming language, followed by R and SQL, among data professionals.
 - **Salary Satisfaction:** A gauge chart indicates the total number of survey takers satisfied with their current salaries.
 
 ## Unique Features of the Dashboard
